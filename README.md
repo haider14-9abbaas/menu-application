@@ -33,6 +33,6 @@ Syed Haider Abbas
 ## 🔗 Links
 
 - [Live Demo](https://haider14-9abbaas.github.io/menu-application/)
-- [GitHub Repo](https://github.com/haider14-9abbaas/your-menu-repo)
+- [GitHub Repo](https://github.com/haider14-9abbaas)
 
 ---
