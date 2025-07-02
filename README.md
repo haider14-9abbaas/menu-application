@@ -15,7 +15,7 @@ Features a clean, mobile-friendly UI and a custom footer with author credits and
 
 ## 📸 Demo
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://haider14-9abbaas.github.io/menu-application/)
 
 ## 💻 Technologies
 
@@ -32,7 +32,7 @@ Syed Haider Abbas
 
 ## 🔗 Links
 
-- [Live Demo](https://your-live-demo-link.com)
+- [Live Demo](https://haider14-9abbaas.github.io/menu-application/)
 - [GitHub Repo](https://github.com/haider14-9abbaas/your-menu-repo)
 
 ---
